@@ -3,6 +3,8 @@ title: "Hand Tracking System"
 excerpt: "Research Project"
 collection: Projects
 ---
+
+
 <b> Supervised with Prof.Khalaj, System Security and Edge Computing Lab, Sharif University of Technology </b>
 
 In the first step, I studied recent models such as mediapipe's hand solution.
