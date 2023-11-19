@@ -14,11 +14,3 @@ Computer and theory assignment designer and grader
 
 Python OpenCV tutorial instructor
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
