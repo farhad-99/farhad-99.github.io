@@ -4,6 +4,7 @@ collection: Teaching Assitant
 type: "Graduate course"
 venue: "Sharif University of Technology, Electrical Engineering"
 date: 2022 winter,spring
+Instructor: Prof. Fatemizade
 ---
 
 
