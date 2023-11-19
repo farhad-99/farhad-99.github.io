@@ -3,7 +3,7 @@ title: "Hand Tracking System"
 excerpt: "Research Project"
 collection: Projects
 ---
-<b> Supervised with Prof.Khalaj, System Security and Edge Computing Lab, Sharif University of Technology <\b>
+<b> Supervised with Prof.Khalaj, System Security and Edge Computing Lab, Sharif University of Technology </b>
 
 In the first step, I studied recent models such as mediapipe's hand solution.
 I tested this framework on different devices like Raspberry Pi4 and Android mobile phones with both python and cpp.
