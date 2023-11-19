@@ -1,6 +1,6 @@
 ---
 title: "Medical Image Analysis and Processing"
-collection: teaching
+collection: Teaching Assistant
 type: "Graduate course"
 venue: "Sharif University of Technology, Electrical Engineering"
 date: 2023-01-01
