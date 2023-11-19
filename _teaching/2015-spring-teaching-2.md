@@ -6,7 +6,7 @@ venue: "Sharif University of Technology, Electrical Engineering"
 date: 2023-09-01
 ---
 
-<b>Course instructor: Prof. Mohammadzade<\b>
+<b>Course instructor: Prof. Mohammadzade</b>
 
 My role:
 
