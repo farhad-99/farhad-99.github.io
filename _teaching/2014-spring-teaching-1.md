@@ -9,5 +9,5 @@ date: 2023-09-01
 <b>Course instructor: Prof. Fatemizade</b>
 
 My role:
-<brb> Computer and theory assignment designer and grader
+<br> Computer and theory assignment designer and grader
 
