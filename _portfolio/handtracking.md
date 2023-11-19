@@ -3,7 +3,6 @@ title: "Hand Tracking System"
 excerpt: "Research Project"
 collection: Projects
 ---
-
 In the first step, I studied recent models such as mediapipe's hand solution.
 I tested this framework on different devices like Raspberry Pi4 and Android mobile phones with both python and cpp.
 Following that, I aimed to enhance this simple hand tracker by adding some features. 
