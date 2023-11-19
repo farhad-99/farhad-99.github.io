@@ -1,12 +1,7 @@
 ---
-title: "Hand Tracking System"
-excerpt: "Research Project"
-collection: Projects
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
-In the first step, I studied recent models such as mediapipe's hand solution.
-I tested this framework on different devices like Raspberry Pi4 and Android mobile phones with both python and cpp.
-Following that, I aimed to enhance this simple hand tracker by adding some features. 
-I implemented a hand gesture recognizer that utilizes 21 calculated key points from mediapipe's model and classifies the gestures using an MLP network.
-Additionally, I incorporated a movement recognizer into our solution.
-The model records the points' history and passes them to an MLP/LSTM network to predict the action. 
-This solution can be used for specific or general purposes, such as in vehicles as a remote
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
