@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Computer Vision"
+collection: Teaching Assitant
+type: "Graduate course"
+venue: "Sharif University of Technology, Electrical Engineering"
+date: 2023-09-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<b>Course instructor: Prof. Mohammadzade<\b>
+
+My role:
+
+Computer and theory assignment designer and grader
+
+Python OpenCV tutorial instructor
 
 Heading 1
 ======
