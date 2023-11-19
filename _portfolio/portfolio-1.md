@@ -1,8 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Developing a Tracker for Crowded and Semi-crowded Scenes"
+excerpt: "Bachelor thesis project "
 collection: Projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-sdsd
+First, fine tuning YOLO for CCTV videos in order to have a more accurate detection of peoplepresence in videos.
+
+Second, developing the tracker’s accuracy and speed using aspect-ratioand box-size joint distribution. 
+
+Third, using the developed tracker for video synopsis.
+
+A real-time accurate multi-object tracking system that operates with minimal computational overhead. The proposed tracking-by-detection method follows the online real-time tracking approach established in prior literature. Introducing a novel cost function called the Bounding Box Similarity Index, our job reduces the dependency on the Kalman Filter, resulting in decreased computational requirements
+
+The results will soon be published as a paper(Expected in early January)
