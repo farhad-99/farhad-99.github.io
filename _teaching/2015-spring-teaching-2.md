@@ -9,8 +9,6 @@ date: 2023-09-01
 <b>Course instructor: Prof. Mohammadzade</b>
 
 My role:
-
-Computer and theory assignment designer and grader
-
-Python OpenCV tutorial instructor
+<br>Computer and theory assignment designer and grader
+<br>Python OpenCV tutorial instructor
 
