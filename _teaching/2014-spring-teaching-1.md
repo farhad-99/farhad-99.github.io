@@ -1,11 +1,11 @@
 ---
-title: "Medical Image Analysis and Processing"
-collection:  Teaching Assitant
-type: "Graduate course"
+title: "Medical Image"
+collection: teaching
+type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Sharif University of Technology, Electrical Engineering"
-date: 2023 winter,spring
-Instructor: Prof. Fatemizade
+venue: "Sharif 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
