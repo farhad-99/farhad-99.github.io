@@ -2,7 +2,7 @@
 title: "Medical Image Analysis and Processing"
 collection: teaching
 type: "Graduate course"
-permalink: \
+permalink: 
 venue: "Sharif University of Technology, Electrical Engineering"
 date: 2022
 location: "City, Country"
