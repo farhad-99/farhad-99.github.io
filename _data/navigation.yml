@@ -3,8 +3,7 @@ main:
   - title: "CV"
     url: /files/CV_FarhadFallah.pdf
     
-  - title: "Publications"
-    url: /publications/
+  
 
   #- title: "Talks"
   #  url: /talks/    
@@ -14,7 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  
+  - title: "Publications"
+    url: /publications/
         
   #- title: "Blog Posts"
   # url: /year-archive/
