@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Medical Image Analysis and Processing"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Graduate course"
+permalink: \
+venue: "Sharif University of Technology, Electrical Engineering"
+date: 2022
 location: "City, Country"
 ---
 
