@@ -1,4 +1,3 @@
-
 ---
 title: "Medical Image Analysis and Processing"
 collection:  Teaching Assitant
