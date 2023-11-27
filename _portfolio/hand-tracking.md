@@ -14,3 +14,4 @@ I implemented a hand gesture recognizer that utilizes 21 calculated key points f
 Additionally, I incorporated a movement recognizer into our solution.
 The model records the points' history and passes them to an MLP/LSTM network to predict the action. 
 This solution can be used for specific or general purposes, such as in vehicles as a remote
+[demo]('https://github.com/farhad-99/hand-gesture-movement-recognition')
