@@ -3,7 +3,7 @@ title: "Developing a Tracker for Crowded and Semi-crowded Scenes"
 excerpt: "Bachelor thesis project "
 collection: Projects
 ---
-<b>Supervised with Prof.Mohammadzade, Deep Learning Lab, Sharif University of Technology </b>
+<b>Supervised by Prof.Mohammadzade, Deep Learning Lab, Sharif University of Technology </b>
 
 First, fine tuning YOLO for CCTV videos in order to have a more accurate detection of peoplepresence in videos.
 
