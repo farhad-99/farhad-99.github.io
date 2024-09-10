@@ -14,5 +14,5 @@ About me
 ======
 I have recieved my Bachelor degree in Electrical Engineering from Sharif University of Technology last spring.
 
-My research intersts involove Medical Image Processing, Computer Vision and Deep Learning and.
+My research intersts involove Medical Image Processing, Computer Vision and Deep Learning.
 
