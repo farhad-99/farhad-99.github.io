@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Farhad Fallah"
   avatar           : "farhad.jpg"
-  bio              : "EE Student at SUT "
-  location         : "Tehran-Iran"
+  bio              : "BME Master Student at UWO "
+  location         : "London,ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  https://scholar.google.ca/citations?hl=en&user=6QmQXqcAAAAJ
-  email            :  farhad.f.z78@gmail.com
+  email            :  ffallahz@uwo.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
