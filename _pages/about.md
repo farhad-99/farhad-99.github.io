@@ -12,7 +12,8 @@ redirect_from:
 
 About me
 ======
-I have recieved my Bachelor degree in Electrical Engineering from Sharif University of Technology Spring 2023.
+I recieved my Bachelor degree in Electrical Engineering from Sharif University of Technology Spring 2023.
+I have been pursuing a Master's in Biomedical Engineering at Western University since January 2025 under the supevision of Prof. Khan in khanlab.
 
-My research intersts involove Medical Image Processing, Computer Vision and Deep Learning.
+
 
