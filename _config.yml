@@ -86,7 +86,7 @@ author:
   location         : "London,ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  https://scholar.google.ca/citations?hl=en&user=6QmQXqcAAAAJ
+  googlescholar    :  https://scholar.google.no/citations?user=6QmQXqcAAAAJ&hl=en
   email            :  ffallahz@uwo.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : farhad-fallah-a0920634a
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0007-5064-4436
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
